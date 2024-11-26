@@ -1,0 +1,4 @@
+OGar Server - Game Mode: Free For All - Running Time: 93sec
+ID:    1, Nick: [BOT] Jamaica  , Score:    180, Cells:  1, Status: 1 IP: BOT
+ID:    2, Nick: [BOT] isis     , Score:    168, Cells:  1, Status: 1 IP: BOT
+ID:    3, Nick: [BOT] Matriarchy, Score:    298, Cells: 11, Status: 1 IP: BOT
